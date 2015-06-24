@@ -15,7 +15,7 @@
 			
 			<table class="table table-striped">
 				<thead>
-					<th>Título</th>
+					<th>Títul</th>
 					<th>Creado</th>
 					<th>Modificado</th>
 					<th></th>
